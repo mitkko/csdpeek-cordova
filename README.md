@@ -15,6 +15,5 @@ This is just my first playground project to learn something about git, whhile at
 
 ---
 # N.B.
-```
-This is not a real project and is unlikely to be developed further. There is no intention for publishing the resulting app, so as a result there is no **signed release apk** but there is a compiled debug version.
-```
+*This is not a real project and is unlikely to be developed further. There is no intention for publishing the resulting app, so as a result there is no **signed release apk** but there is a compiled [debug version](../blob/master/platforms/android/app/build/outputs/apk/debug/).*
+
