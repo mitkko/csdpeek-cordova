@@ -2,6 +2,11 @@
 A simple save game file viewer for https://www.clubsoccerdirector.co.uk android game. Based on Apache Cordova.
 
 ---
+
+# N.B.
+*This is not a real project and was anly a playground for a specific old version of the game. It is no longer compatible with the current version(s) of the game and will not been developed further and will not be.
+
+---
 ## Background
 This is just my first playground project to learn something about git, whhile attempting to create a simple Android app without specific (Android) development skills at all. The project at hand, based on Apache Cordova is an attempt to create simple save file viewer for a mobile game called [Club Soccer Director](https://www.clubsoccerdirector.co.uk).
 
@@ -12,8 +17,3 @@ This is just my first playground project to learn something about git, whhile at
 2. Search for the attributes of a single specific player by name - case insensitive but based on entire name string as displayed in the game.
 3. Search for all players in the (save) game at or above a specified potential threshold.
 4. Results will appear in the space underneath.
-
----
-# N.B.
-*This is not a real project and is unlikely to be developed further. There is no intention for publishing the resulting app, so as a result there is no **signed release apk** but there is a compiled [debug version](../master/platforms/android/app/build/outputs/apk/debug/).*
-
