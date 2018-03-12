@@ -4,7 +4,7 @@ A simple save game file viewer for https://www.clubsoccerdirector.co.uk android 
 ---
 
 # N.B.
-*This is not a real project and was anly a playground for a specific old version of the game. It is no longer compatible with the current version(s) of the game and will not been developed further and will not be.
+*This is not a real project and was anly a playground for a specific old version of the game. It is no longer compatible with the current version(s) of the game and will not been developed further and will not be.*
 
 ---
 ## Background
